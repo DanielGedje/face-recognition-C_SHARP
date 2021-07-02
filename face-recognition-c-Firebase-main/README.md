@@ -11,7 +11,7 @@ For every sb folder that is found a new folder holding the name equals to the va
 77420
 \|
 \|
----> FullName : "Benjamin Ben-David", 
+---> FullName : "Daniel Gedje", 
       ID : "77420",
       images : 
          |
@@ -23,9 +23,9 @@ For every sb folder that is found a new folder holding the name equals to the va
          | |
          \ /
          
-Benjamin Ben-David_77420_0.jpg, 
-Benjamin Ben-David_77420_1.jpg, 
-Benjamin Ben-David_77420_2.jpg
+Daniel Gedje_77420_0.jpg, 
+Daniel Gedje_77420_1.jpg, 
+Daniel Gedje_77420_2.jpg
 
 after the creation of the main training folder the program will make an array that is made of all the paths to files that end with a .jpg( *.jpg ).
 from there the recognizer will be "feed" with all the img and it will start to its job.
@@ -34,8 +34,8 @@ please make sure that the used Firebase will sher the same fileds value OR you c
 
 Guys if you find your self having some problems with the code you are more then welcome to email my freely, hope it wont come to this :-).
 
-📧bendavidbenyamin@gmail.com
+📧DanielGedje1000@gmail.com
 
 Best regards,
-Ben-David Benjamin
+Daniel Gedje
 
